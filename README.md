@@ -34,5 +34,5 @@ This helped and connectivity was restored and I verified connectivity using ping
 
 <img width="1531" height="1055" alt="Kali Linux Wired Connection" src="https://github.com/user-attachments/assets/7b2a2e4e-599e-4a69-b308-d1d25a8b5af2" />
 
-
+Done by Boitumelo Maribatsi NW-084-030
 
