@@ -20,6 +20,8 @@ Set up a personal cybersecurity lab using VirtualBox and Kali Linux in an isolat
 5. Configured VM settings: Network to NATNetwork, Clipboard Bidirectional, Drag & Drop Bidirectional, Shared Folder (Downloads)
 6. Configured IP settings and verified internet access
 
+<img width="1780" height="1217" alt="Machine Snapshot" src="https://github.com/user-attachments/assets/3a7fcf8e-c1c5-443b-b7d7-62268da69a31" />
+
 ## Issue Faced 
 During my Kali Linux lab setup, I faced a network connectivity issue."
 
@@ -29,6 +31,8 @@ sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 ## Comment on Issue Faced and Fixed
 
 This helped and connectivity was restored and I verified connectivity using ping commands (Ping 8.8.8.8 and Ping Google.com) and i aslo went on google to show that the connection is fine. I checked the network settings using nmcli and applied the fix:
+
+<img width="1531" height="1055" alt="Kali Linux Wired Connection" src="https://github.com/user-attachments/assets/7b2a2e4e-599e-4a69-b308-d1d25a8b5af2" />
 
 
 
